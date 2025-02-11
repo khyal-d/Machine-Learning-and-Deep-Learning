@@ -51,25 +51,6 @@ Welcome to my repository showcasing a collection of Deep Learning and Machine Le
 
 ---
 
-## 📂 Repository Structure
-```
-📦 Deep_ML_Projects
- ┣ 📂 Deep_Learning
- ┃ ┣ 📂 ANN_Customer_Churn
- ┃ ┣ 📂 CNN_Object_Detection
- ┃ ┣ 📂 RNN_Stock_Prediction
- ┃ ┣ 📂 SOM_Fraud_Detection
- ┃ ┗ 📂 Netflix_Recommendation
- ┣ 📂 Machine_Learning
- ┃ ┣ 📂 Regression_House_Price
- ┃ ┣ 📂 Clustering_Customer_Segmentation
- ┃ ┗ 📂 Fraud_Detection_Sentiment_Analysis
- ┣ 📜 README.md
- ┗ 📜 requirements.txt
-```
-
----
-
 ## ⚙️ Installation & Usage
 
 1. Clone the repository:  
