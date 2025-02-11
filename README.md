@@ -1,6 +1,6 @@
 # Deep Learning and Machine Learning Projects Repository
 
-Welcome to my repository showcasing a collection of Deep Learning and Machine Learning projects implemented using Python/R, TensorFlow/Keras, and various ML/DL techniques.
+Welcome to my repository showcasing a collection of Deep Learning and Machine Learning projects and ready to use templates implemented using Python/R, TensorFlow/Keras, and various ML/DL techniques.
 
 ## 🚀 Deep Learning Projects
 
